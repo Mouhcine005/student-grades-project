@@ -11,7 +11,7 @@ This project is a Python script that cleans student data from a CSV file. It per
 
 1. Place your student CSV file in the project folder.
 2. Run the Python script:  
-python main.py.py
+python main.py
 The cleaned CSV file will be created in the same folder.
 
 Requirements
